@@ -1,0 +1,25 @@
+.value {
+  font-size: 200px;
+  color: #4a6666;
+  background-color: rgb(184, 233, 121);
+}
+
+div {
+  display: inline-block;
+  line-height: 1;
+  padding: 20px;
+  font-size: 30px;
+}
+
+span {
+  display: block;
+  font-size: 30px;
+  color: rgb(156, 219, 10);
+}
+
+body {
+  text-align: center;
+  font-family: "URW Chancery L", cursive;
+  color: white;
+  background: rgb(5, 14, 22);
+}
